@@ -1,0 +1,23 @@
+{
+  "name": "fis-to-gulp",
+  "version": "1.0.0",
+  "description": "fis move house",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjchenhao/fisToGulp.git"
+  },
+  "keywords": [
+    "fis",
+    "gulp"
+  ],
+  "author": "xjchenhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjchenhao/fisToGulp/issues"
+  },
+  "homepage": "https://github.com/xjchenhao/fisToGulp#readme"
+}
